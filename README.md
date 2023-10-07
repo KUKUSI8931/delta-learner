@@ -1,2 +1,2 @@
 # delta-learner
-This Is only for learning purpose 
+This Is only for learning purpose .
